@@ -1,0 +1,11 @@
+networkx
+matplotlib
+python-louvain
+powerlaw
+numpy
+scipy
+pandas
+hdfs
+jupyter
+ipython
+gensim
